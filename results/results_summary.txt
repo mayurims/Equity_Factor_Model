@@ -1,0 +1,51 @@
+======================================================================
+BACKTEST RESULTS SUMMARY
+======================================================================
+
+--- Long-Short (Q5−Q1) ---
+  Total Return:          97.8%
+  Annualized Return:     18.6%
+  Annualized Vol:        14.2%
+  Sharpe Ratio:           1.31
+  Max Drawdown:         -17.8%
+  Calmar Ratio:           1.04
+  Info Ratio vs SPY:      0.27
+
+--- Q5 (Long Only) ---
+  Total Return:         154.9%
+  Annualized Return:     26.4%
+  Annualized Vol:        17.7%
+  Sharpe Ratio:           1.49
+  Max Drawdown:         -11.8%
+  Calmar Ratio:           2.23
+  Info Ratio vs SPY:      1.44
+
+--- Q1 (Short Only) ---
+  Total Return:          22.1%
+  Annualized Return:      5.1%
+  Annualized Vol:        20.0%
+  Sharpe Ratio:           0.26
+  Max Drawdown:         -16.2%
+  Calmar Ratio:           0.32
+  Info Ratio vs SPY:     -0.46
+
+--- SPY Benchmark ---
+  Annualized Return:     11.4%
+  Sharpe Ratio:           0.73
+  Max Drawdown:         -12.9%
+
+--- Individual Factor Returns (annualized) ---
+      momentum:      9.5%
+         value:    -19.0%
+          size:    -18.7%
+        lowvol:    -20.7%
+
+--- Transaction Cost Sensitivity ---
+    BPS    Ann Return    Sharpe
+      5         18.0%      1.27
+     10         17.5%      1.23
+     15         16.9%      1.19
+     20         16.4%      1.15
+     25         15.8%      1.12
+
+======================================================================
